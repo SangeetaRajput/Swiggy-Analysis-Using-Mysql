@@ -3,7 +3,7 @@
 # Overview
 This project aims to extract insights from Swiggy's SQL dataset using sophisticated SQL queries with intricate joins for in-depth analysis and strategic decision-making.
 
-# Dataset Link: https://drive.google.com/file/d/1S32wPjwNUlhi2G5xiW3_wZvGVKipJq-b/view
+Dataset Link: https://drive.google.com/file/d/1S32wPjwNUlhi2G5xiW3_wZvGVKipJq-b/view
 
 The dataset includes information about customers, restaurants, orders, ratings, and delivery partners.
 
